@@ -1,9 +1,24 @@
 *{
+
+}
+
+body{
+    color: teal;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
     padding: 0;
     margin: 0;
 }
 
-body{
-    text-align: center;
-    font-family: fantasy;
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rosybrown;
+    margin: 0 auto;
+}
+
+.container h1{
+    font-size: 20px;
 }
