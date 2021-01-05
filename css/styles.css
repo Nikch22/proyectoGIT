@@ -5,7 +5,7 @@
 body{
     color: teal;
     text-align: center;
-    font-family: fantasy;
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
     padding: 0;
     margin: 0;
@@ -17,6 +17,20 @@ body{
     text-align: left;
     border: 1px solid rosybrown;
     margin: 0 auto;
+}
+
+.container .encabezado{
+    font-weight: bold;
+    box-shadow: 0px 6px 11px -4px rgba(0,0,0,0.3);
+    background: #333331;
+    color: #ffc814;
+    padding: 0.5em;
+}
+
+.container .encabezado .tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 .container h1{
