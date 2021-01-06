@@ -38,3 +38,19 @@ body{
 .container h1{
     font-size: 20px;
 }
+
+.footer{
+    width: 70%;
+    font-size: 1.5em;
+    font-weight: bolder;
+    background-color: #41177F;
+    color: #E5B412;
+    padding: 1em;
+    text-align: center;
+    border: 2px dashed #B37932;
+    margin: 0 auto;
+}
+
+.footer .autor{
+    color: white;
+}
